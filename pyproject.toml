@@ -10,4 +10,7 @@ dependencies = [
   "streamlit",
   "plotly",
   "sympy==1.13.1",
+  "torch>=2.6.0",
+  "torchvision>=0.21.0",
+  "graphviz>=0.21",
 ]
